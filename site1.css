@@ -1,0 +1,40 @@
+h1{ 
+text-decoration: underline;
+margin: 10px 20px 10px 360px;
+}
+
+body{
+background-color: pink;
+background-image: url(https://wallpaper-house.com/data/out/6/wallpaper2you_130495.jpg);
+background-size: 1380px 720px;
+background-repeat: no-repeat;
+color: white;
+}
+
+p{
+margin: 30px 10px 10px 130px;
+}
+
+a{
+text-decoration: underline;
+}
+.man{
+color: white;
+}
+
+ul{
+	margin: 0 30px 0 130px;
+}
+
+.links{
+	color: lime;
+}
+.header{
+	color: #ffffff;
+}
+.text-info{
+	margin: 0 50px 0 0
+}
+.li{
+	margin 10px 20px 0 0
+}

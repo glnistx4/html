@@ -1,0 +1,46 @@
+<html>
+	<head>
+		
+		<link rel="stylesheet" type="text/css" href="site1.css">
+		
+	</head>
+	<body>
+		<div class="header">
+			<h1>Otaku Corner!</h1>
+		</div>
+
+		<div class="Text-info">
+			<p>
+				Can du lide anime? Hvad med manga? Moske ogso spil?
+				<big>SO</big> er du kommet til den rette sted!!!
+				<br>Her vil du kunne finde, steder hvor du kan se anime, lease manga eller fo informationer om spil!<br>
+			</p>
+		</div>
+		
+		<div class="link-info">
+		<p class="links">
+			Ved dette sider kan du fine informationer, lese eller se Anime og Manga
+		</p>
+		
+		<ul>
+			<li>
+				<a href="https://www.myanimelist.net">
+					<img src="https://image4.owler.com/logo/myanimelist_owler_20160226_213523_original.png" 
+					width="150" height="25" title="animli">	
+				</a>
+				
+			<li>
+				<a href="http://www.crunchyroll.com/"> 
+					<img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Crunchyroll_Logo.svg/921px-Crunchyroll_Logo.svg.png" 
+					width="40" height="40" title="cruch">					
+				</a>
+			
+			<li>
+				<a href="https://www.mangarock.com" 
+				class="man">Mangarock.com
+				</a>		
+		</ul>
+		</div>
+
+	</body>
+</html>
